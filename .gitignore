@@ -1,0 +1,9 @@
+.DS_Store
+.project
+.settings
+model/settings.php
+.classpath
+proguard.cfg
+nbproject/
+web/secure.jpg
+web/secure.jpg
